@@ -44,39 +44,39 @@ namespace SpanischKonjugation
 
             if (Ending == 1)
             {
-                Console.WriteLine("Konjugation ICH : " + VokabelCut.Insert(VokabelCut.Length, "o"));
-                Console.WriteLine("Konjugation DU : " + VokabelCut.Insert(VokabelCut.Length, "as"));
+                Console.WriteLine("Konjugation ICH       : " + VokabelCut.Insert(VokabelCut.Length, "o"));
+                Console.WriteLine("Konjugation DU        : " + VokabelCut.Insert(VokabelCut.Length, "as"));
                 Console.WriteLine("Konjugation ER/SIE/ES : " + VokabelCut.Insert(VokabelCut.Length, "a"));
-                Console.WriteLine("Konjugation WIR : " + VokabelCut.Insert(VokabelCut.Length, "mos"));
-                Console.WriteLine("Konjugation IHR : " + VokabelCut.Insert(VokabelCut.Length, "áis"));
-                Console.WriteLine("Konjugation SIE : " + VokabelCut.Insert(VokabelCut.Length, "an"));
+                Console.WriteLine("Konjugation WIR       : " + VokabelCut.Insert(VokabelCut.Length, "mos"));
+                Console.WriteLine("Konjugation IHR       : " + VokabelCut.Insert(VokabelCut.Length, "áis"));
+                Console.WriteLine("Konjugation SIE       : " + VokabelCut.Insert(VokabelCut.Length, "an"));
             }
             else if (Ending == 2)
             {
-                Console.WriteLine("Konjugation ICH : " + VokabelCut.Insert(VokabelCut.Length, "o"));
-                Console.WriteLine("Konjugation DU : " + VokabelCut.Insert(VokabelCut.Length, "es"));
+                Console.WriteLine("Konjugation ICH       : " + VokabelCut.Insert(VokabelCut.Length, "o"));
+                Console.WriteLine("Konjugation DU        : " + VokabelCut.Insert(VokabelCut.Length, "es"));
                 Console.WriteLine("Konjugation ER/SIE/ES : " + VokabelCut.Insert(VokabelCut.Length, "e"));
-                Console.WriteLine("Konjugation WIR : " + VokabelCut.Insert(VokabelCut.Length, "emos"));
-                Console.WriteLine("Konjugation IHR : " + VokabelCut.Insert(VokabelCut.Length, "éis"));
-                Console.WriteLine("Konjugation SIE : " + VokabelCut.Insert(VokabelCut.Length, "en"));
+                Console.WriteLine("Konjugation WIR       : " + VokabelCut.Insert(VokabelCut.Length, "emos"));
+                Console.WriteLine("Konjugation IHR       : " + VokabelCut.Insert(VokabelCut.Length, "éis"));
+                Console.WriteLine("Konjugation SIE       : " + VokabelCut.Insert(VokabelCut.Length, "en"));
             }
             else if (Ending == 3)
             {
-                Console.WriteLine("Konjugation ICH : " + VokabelCut.Insert(VokabelCut.Length, "o"));
-                Console.WriteLine("Konjugation DU : " + VokabelCut.Insert(VokabelCut.Length, "es"));
+                Console.WriteLine("Konjugation ICH       : " + VokabelCut.Insert(VokabelCut.Length, "o"));
+                Console.WriteLine("Konjugation DU        : " + VokabelCut.Insert(VokabelCut.Length, "es"));
                 Console.WriteLine("Konjugation ER/SIE/ES : " + VokabelCut.Insert(VokabelCut.Length, "e"));
-                Console.WriteLine("Konjugation WIR : " + VokabelCut.Insert(VokabelCut.Length, "imos"));
-                Console.WriteLine("Konjugation IHR : " + VokabelCut.Insert(VokabelCut.Length, "ís"));
-                Console.WriteLine("Konjugation SIE : " + VokabelCut.Insert(VokabelCut.Length, "en"));
+                Console.WriteLine("Konjugation WIR       : " + VokabelCut.Insert(VokabelCut.Length, "imos"));
+                Console.WriteLine("Konjugation IHR       : " + VokabelCut.Insert(VokabelCut.Length, "ís"));
+                Console.WriteLine("Konjugation SIE       : " + VokabelCut.Insert(VokabelCut.Length, "en"));
             }
             else if (Ending == 4)
             {
-                Console.WriteLine("Konjugation ICH : " + VokabelCut.Insert(VokabelCut.Length, "o"));
-                Console.WriteLine("Konjugation DU : " + VokabelCut.Insert(VokabelCut.Length, "as"));
+                Console.WriteLine("Konjugation ICH       : " + VokabelCut.Insert(VokabelCut.Length, "o"));
+                Console.WriteLine("Konjugation DU        : " + VokabelCut.Insert(VokabelCut.Length, "as"));
                 Console.WriteLine("Konjugation ER/SIE/ES : " + VokabelCut.Insert(VokabelCut.Length, "a"));
-                Console.WriteLine("Konjugation WIR : " + VokabelCut.Insert(VokabelCut.Length, "mos"));
-                Console.WriteLine("Konjugation IHR : " + VokabelCut.Insert(VokabelCut.Length, "áis"));
-                Console.WriteLine("Konjugation SIE : " + VokabelCut.Insert(VokabelCut.Length, "an"));
+                Console.WriteLine("Konjugation WIR       : " + VokabelCut.Insert(VokabelCut.Length, "mos"));
+                Console.WriteLine("Konjugation IHR       : " + VokabelCut.Insert(VokabelCut.Length, "áis"));
+                Console.WriteLine("Konjugation SIE       : " + VokabelCut.Insert(VokabelCut.Length, "an"));
             }
         }
 
