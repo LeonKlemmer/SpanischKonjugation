@@ -2,7 +2,7 @@
 
 namespace SpanischKonjugation
 {
-    class Program
+    class Spanisch
     {
         static void Main(string[] args)
         {
